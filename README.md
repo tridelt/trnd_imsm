@@ -1,1 +1,0 @@
-# trnd_imsm
